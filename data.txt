@@ -1,0 +1,3 @@
+Name: Beth Shook
+Age: 30
+Favorite Color: Green
